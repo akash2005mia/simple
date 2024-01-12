@@ -1,0 +1,35 @@
+body{font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Mooli', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Tilt Prism', sans-serif;}
+
+    .banner-container{background-color: rgb(170, 182, 192);}
+
+    .banner-column{background-color: rgb(124, 120, 114);}
+
+    .nav-font{font-size: 18px;}
+
+    .about-container{background-color:black;}
+
+    .buttonnew{background-color: #EAD196;}
+
+    .education-container{background-color: #B19470;}
+
+    .circle{background-color: brown;
+    height: 150px;
+width:150px;
+border-radius: 50%;}
+
+
+.project-container{background-color: blue;
+
+}
+
+.navbar-container{top:0;
+position:sticky;
+z-index: 2;}
+.nav-link:hover{background-color: #B19470;
+border-radius: 5px;}
+
+.submitbutton{margin: auto;}
